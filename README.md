@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate developer from UCSD</h3>
+<h3 align="center">A passionate developer studying at UCSD</h3>
 
 - 🔭 I’m currently working on [GeneMapper](https://github.com/NabilHKhoury/GeneMapper)
 
