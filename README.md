@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khouryn77@gmail.com**
 
-- ⚡ Fun fact **my dad is an Orthodox Christian Priest XD**
+- ⚡ Fun fact **my Dad is an Orthodox Christian Priest XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
