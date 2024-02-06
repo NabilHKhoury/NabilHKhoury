@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GeneMapper](https://github.com/NabilHKhoury/GeneMapper)
 
-- 🌱 I’m currently learning **API Development**
+- 🌱 I’m currently learning **Tkinter**
 
 - 👯 I’m looking to collaborate on [CSES TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript)
 
