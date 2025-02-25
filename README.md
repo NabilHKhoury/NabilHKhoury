@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A Technical Product Manager studying at Colorado Boulder</h3>
+<h3 align="center">A Technical Product Manager studying at Colorado Boulder living in Boston, MA!</h3>
 
 - 🔭 I’m currently working on [GeneMapper](https://github.com/NabilHKhoury/GeneMapper)
 
