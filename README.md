@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate developer studying at UCSD</h3>
+<h3 align="center">A Technical Product Manager studying at Colorado Boulder</h3>
 
 - 🔭 I’m currently working on [GeneMapper](https://github.com/NabilHKhoury/GeneMapper)
 
 - 🌱 I’m currently learning **Flask**
 
-- 👯 I’m looking to collaborate on [CSES TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript)
+- 👯 I’m looking to collaborate on [CSES TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript) an open-source project I founded when I was at UCSD 
 
 - 📫 How to reach me **khouryn77@gmail.com**
 
