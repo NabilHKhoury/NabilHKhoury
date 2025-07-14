@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
 <h3 align="center">An AI-native Product Manager studying at Engineering Management at UCB!</h3>
 
-- 🔭 I’m currently working on a startup called Xenia Plate
+- 🔭 I’m currently building a startup called Xenia Plate
 
-- 🌱 I’m currently learning AI Tools
+- 🌱 I’m currently learning AI Tools like Mindstudio
 
 - 👯 I’m looking to collaborate on [TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript) an open-source project I founded as part of the Open Source initiative I co-founded at UCSD.  
 
