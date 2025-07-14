@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning AI Tools
 
-- 👯 I’m looking to collaborate on [CSES TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript) an open-source project I co-founded when I was at UCSD 
+- 👯 I’m looking to collaborate on [TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript) an open-source project I founded part of Open Source UCSD 
 
 - 📫 How to reach me **khouryn77@gmail.com**
 
