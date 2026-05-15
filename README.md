@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">An AI-native Product Manager studying at Engineering Management at UCB!</h3>
+<h3 align="center">An AI-native Product Manager MS in CS and MEM at UCB!</h3>
 
 - 🔭 I’m currently building a startup called [Plate Plan](https://yourplateplan.com/)
 
