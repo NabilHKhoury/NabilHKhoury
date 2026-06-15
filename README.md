@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">An AI-native Product Manager MS in CS and MEM at UCB!</h3>
-
-- 🔭 I’m currently building a startup called [Plate Plan](https://yourplateplan.com/)
-
-- 🌱 I’m currently learning AI Tools like Mindstudio
-
-- 👯 I’m looking to collaborate on [TritonScipt](https://github.com/CSES-Open-Source/cses-tritonscript) an open-source project I founded as part of the Open Source initiative I co-founded at UCSD.  
-
-- 📫 How to reach me **khouryn77@gmail.com**
-
-- ⚡ Fun fact **my Dad is an Orthodox Christian Priest XD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nabilhannakhoury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabilhannakhoury/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# Nabil Khoury
+ 
+**Technical PM who builds.** I own products 0→1 and write the production code myself — FastAPI, Next.js, and an agentic AI dev workflow (Claude Code) that lets me ship 100+ PRs solo.
+ 
+Most recently: built an AV safety intelligence platform from scratch — physics-based risk scoring (TTC, RSS), a local LLM that narrates incidents in plain English, and a GTM strategy that repositioned it as a $570K ARR smart-city platform across 20+ agencies.
+ 
+Background in Bioinformatics and CS (UCSD). Previously shipped ML improvements in AI drug discovery at Eclipsebio, founded a dev consultancy that ran 6 simultaneous product deliveries, and was founding PM at a consumer startup that hit $10K+ MRR.
+ 
+---
+ 
+## What I work with
+ 
+**Product** — 0→1 strategy, PRDs, pricing & packaging, GTM, roadmapping, A/B testing, user research
+ 
+**AI** — Claude Code (agentic SDLC), Cursor, Ollama (local LLMs), OpenAI APIs
+ 
+**Engineering** — Python (FastAPI), TypeScript (Next.js / React), SQL, REST APIs, Git
+ 
+---
+ 
+## Get in touch
+ 
+📧 khouryn77@gmail.com  
+💼 [linkedin.com/in/nabilhannakhoury](https://www.linkedin.com/in/nabilhannakhoury)
